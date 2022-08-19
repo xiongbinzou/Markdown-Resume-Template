@@ -12,8 +12,8 @@
 ## :boy: 个人信息
 
 + 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;             &emsp;&ensp;年 龄：xx 
-+ 手 机：xxxxxxxxxxxx&emsp;&emsp;&emsp;&emsp;&emsp;            &emsp;&ensp;&emsp;邮 箱：xxxxxxxxxx@xx.com
-+ 博 客：https://xxxxxxx  &emsp;&emsp;&emsp;
++ 手 机：xxxxxxxxxxx &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;        &emsp;&ensp;&emsp;邮 箱：xxxxxxxxxx@xx.com
++ 博 客：xxxxxxx  &emsp;&emsp;&emsp;
 
 
 
@@ -23,7 +23,7 @@
     <span style="float: left; font-weight: bold">xxx大学</span> 
     <span style="float: right;">xxxx年09月 - xxxx年06月</span><br>
     <span style="float: left">硕士 xxxx专业</span><br>
-</div>
+</div><br>
 <div id="expand-box-header" style="margin-top: 20px">
     <span style="float: left; font-weight: bold">xxx大学</span> 
     <span style="float: right;">xxxx年09月 - xxxx年06月</span><br>
@@ -59,6 +59,8 @@
  具体功能
  运用了那些技术，技术难点是
  效果如何
+ 
+<br>
 
 <div id="expand-box-header" style="margin-top: 40px">
     <span style="float: left; font-weight: bold; font-size: 22px">xxxx公司</span> 
@@ -66,22 +68,7 @@
     <span style="float: left">xxxx职位 xxxx部门</span><br>
 </div>
 
-
-+ **xxxx项目**
-
- 具体功能
- 运用了那些技术，技术难点是
- 效果如何
- demo演示地址，github地址
-
-
-<div id="expand-box-header" style="margin-top: 40px">
-    <span style="float: left; font-weight: bold; font-size: 22px">xxxx公司</span> 
-    <span style="float: right;">xxxx年xx月 - xxxx年xx月</span><br><br>
-    <span style="float: left">xxxx实习生 xxxx部门</span><br>
-</div>
-
-
+<br>
 + **xxxx项目**
 
   具体功能
