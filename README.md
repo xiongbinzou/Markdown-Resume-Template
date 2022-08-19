@@ -41,7 +41,6 @@
 </div>
 
 
-
 + **xxxx项目**
 
  具体功能
@@ -68,7 +67,6 @@
     <span style="float: left">xxxx职位 xxxx部门</span><br>
 </div>
 
-<br>
 + **xxxx项目**
 
   具体功能
