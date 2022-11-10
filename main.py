@@ -1,4 +1,4 @@
-Class Greet:
+class Greet:
     def __init__(self):
         self.strs = "Hello world!"
         
